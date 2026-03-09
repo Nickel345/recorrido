@@ -1,0 +1,15 @@
+#pagina1 {
+    background-image: url("assets/granja.jpeg");
+}
+
+#pagina2 {
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqOWJoNGtuMmoyMDNndzZwbHB5YmJ0YnA0MzFneGY4bnVkMDNmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DzAsTSmvgOCFKMex9/giphy.gif");
+}
+
+img{
+    
+}
+
+#cow {
+    width: 10vw;
+}
