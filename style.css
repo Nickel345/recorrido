@@ -1,15 +1,57 @@
 #pagina1 {
-    background-image: url("assets/granja.jpeg");
+    background-image: url("assets/Bogota.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #pagina2 {
-    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqOWJoNGtuMmoyMDNndzZwbHB5YmJ0YnA0MzFneGY4bnVkMDNmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DzAsTSmvgOCFKMex9/giphy.gif");
+    background-image: url("assets/paris.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-img{
-    
+#pagina3 {
+    background-image: url("assets/London.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#pagina4 {
+    background-image: url("assets/Sydney.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#pagina5 {
+    background-image: url("assets/Toronto.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#VacaS {
+    background-image: url("assets/vaca.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #cow {
     width: 10vw;
+}
+
+h1 {
+    background-color: antiquewhite;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    background-color: aliceblue;
+    width: fit-content;
+    font-family: 'Courier New', Courier, monospace;
 }
